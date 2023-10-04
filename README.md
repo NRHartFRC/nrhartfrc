@@ -7,7 +7,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/swlogo.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/inventorlogo.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/hathatlogo.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/hardhatlogo.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/react.png"></code>

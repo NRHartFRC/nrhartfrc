@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 &nbsp; How to reach me: Visit my [`Contact`](https://nrhartfrc.github.io/personalwebsite/)  page
+- 📫 &nbsp; How to reach me: visit my [`Contact`](https://nrhartfrc.github.io/personalwebsite/)  page
 - 🔭 &nbsp; I am currently Coaching and Mentoring HS Robotics and building Web3 applications
 - 💼 &nbsp; I am looking for a new job as a Design Engineer, Tooling Engineer, Automation Engineer, or Controls Engineer
 
@@ -19,5 +19,5 @@
 
   Visit my [online resume](https://nrhartfrc.github.io/resume/)
 
-  <img src="https://raw.githubusercontent.com/NRHartFRC/web3-token-exchange/main/src/assets/manuka.png" alt="Manuka" width="100">
+  <img src="https://raw.githubusercontent.com/NRHartFRC/web3-token-exchange/main/src/assets/manuka.png" alt="Manuka" width="150">
 </div>

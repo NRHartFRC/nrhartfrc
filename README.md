@@ -7,10 +7,15 @@
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/swlogo.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/inventorlogo.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/linux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/hardhatlogo.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/labview.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/burp.png"></code>
 
 <div align="center">
   <h1>Welcome to my Digital Universe!</h1>

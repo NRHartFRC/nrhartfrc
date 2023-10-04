@@ -4,13 +4,13 @@
 - 💼 &nbsp; I am looking for a new job as a Design Engineer, Tooling Engineer, Automation Engineer, or Controls Engineer
 
 ### Technologies and Tools That I Use:
-<code><img height="20" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/swlogo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/inventorlogo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/hathatlogo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/swlogo.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/inventorlogo.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/hathatlogo.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/react.png"></code>
 
 <div align="center">
   <h1>Welcome to my Digital Universe!</h1>

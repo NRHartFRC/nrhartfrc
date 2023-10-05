@@ -1,7 +1,7 @@
 ### Hi there, welcome to my digital universe! 👋
 - 📫 &nbsp; How to reach me: visit my [`Contact`](https://nrhartfrc.github.io/personalwebsite/)  page
 - 🔭 &nbsp; I am currently Coaching and Mentoring HS Robotics and building Web3 applications
-- 💼 &nbsp; I am looking for a new full-time position as a Design Engineer, Tooling Engineer, Automation Engineer, or Controls Engineer
+- 💼 &nbsp; I am looking for full-time position as a Design Engineer, Tooling Engineer, Automation Engineer, or Controls Engineer
 
 #### Software, Technologies & Tools That I Use:
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/swlogo.png"></code>

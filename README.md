@@ -18,7 +18,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/NRHartFRC/nrhartfrc/main/logos/linux.png"></code>
 
 View my [personal website](https://nrhartfrc.github.io/personalwebsite/)
-
-Visit my [online resume](https://nrhartfrc.github.io/resume/)
+View my [online resume](https://nrhartfrc.github.io/resume/)
 
 <img src="https://raw.githubusercontent.com/NRHartFRC/web3-token-exchange/main/src/assets/manuka.png" alt="Manuka" width="100">
